@@ -1,8 +1,16 @@
 ### Numerical Experiments of the paper 
-# "Fast Routing under Uncertainty: Adaptive Learning in Congestion Games with Exponential Weights" 
+# "Fast Routing under Uncertainty: Adaptive Learning in Congestion Games with Exponential Weights"
+# Published in Proceeding of the 35th Conference on Neural Information Processing Systems (Neurips 2021). 
+Authors: 
+* Dong Quan Vu (Univ. Grenoble Alpes, CNRS, Inria, Grenoble INP, LIG 38000, Grenoble, France). Contact at: dongquan.vu.dqv[at]gmail[point]com
+* Kimon Antonakopoulos (Univ. Grenoble Alpes, CNRS, Inria, Grenoble INP, LIG 38000, Grenoble, France)
+* Panayotis Mertikopoulos (Univ. Grenoble Alpes, CNRS, Inria, Grenoble INP, LIG 38000, Grenoble, France).
 
-### (Currently under submission at Neurips 2021)
 
+
+
+
+ 
 0. Theoretical results are presented in ```main_text.pdf```. The raw data is stored in ```../TransportationNetworks-master/```. The name of the networks corresponding to the name of the subfolders. When add new networks data (from https://github.com/bstabler/TransportationNetworks), please re-run ```Create_OMX_matrix_for_data.ipynb```)
 
 1. To re-plot the available results (that are reported in the paper), use ```Plotting.ipynb```.
